@@ -1,0 +1,41 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default suite",
+    "children" : [ {
+      "name" : "Default test",
+      "children" : [ {
+        "name" : "com.cec.qa.runner.MainRunner",
+        "children" : [ {
+          "name" : "Runs Cucumber Feature",
+          "uid" : "ce34242a564c1d60",
+          "parentUid" : "18df5a1b2e2c10a80f3058887b710cb9",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1572411565243,
+            "stop" : 1572411565250,
+            "duration" : 7
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Runs Cucumber Feature",
+          "uid" : "d0e6be957685e23c",
+          "parentUid" : "18df5a1b2e2c10a80f3058887b710cb9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1572411617820,
+            "stop" : 1572413716847,
+            "duration" : 2099027
+          },
+          "flaky" : false,
+          "parameters" : [ "KidsBirthdayParties" ]
+        } ],
+        "uid" : "18df5a1b2e2c10a80f3058887b710cb9"
+      } ],
+      "uid" : "848117670d75f6868e681771989ad50e"
+    } ],
+    "uid" : "2c8837b97293ea01a164a5cd7048ad56"
+  } ]
+}

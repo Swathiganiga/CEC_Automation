@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","cucumber.api.testng.AbstractTestNGCucumberTests.feature","2099027",""
+"skipped","cucumber.api.testng.AbstractTestNGCucumberTests.feature","7",""

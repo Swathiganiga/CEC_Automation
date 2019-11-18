@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="CEC QA Automation Suite:2.0[From Root]">
+
+<test name = "CEC Automation Suite Of API And GUI[From Root]">
+	<classes>
+		<class name = "com.cec.qa.tests.APINewBookingFunnelTest"> </class>
+		<class name = "com.cec.qa.tests.APINewBranndSiteTest"> </class>
+		<class name = "com.cec.qa.tests.KidsBirthdayPartyTest"> </class>
+		<class name = "com.cec.qa.tests.KidsGroupEventTest"> </class>
+		<class name = "com.cec.qa.tests.StoreAppTest"> </class>
+		<class name = "com.cec.qa.tests.KidsBirthdayPartyOldTest"> </class>
+		<class name = "com.cec.qa.tests.KidsOrganizationEventOldTest"> </class>
+		
+ 	</classes>
+</test>
+</suite>

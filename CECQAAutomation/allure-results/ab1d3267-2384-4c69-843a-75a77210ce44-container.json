@@ -1,0 +1,1 @@
+{"uuid":"ab1d3267-2384-4c69-843a-75a77210ce44","name":"com.cec.qa.tests.KidsBirthdayPartyTest.tearDown","description":"","start":1573629824577,"stop":1573629825361,"children":["fdf456f1-a38f-468e-aaf5-ffb71ef3668d"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1573629824577,"stop":1573629825361}]}

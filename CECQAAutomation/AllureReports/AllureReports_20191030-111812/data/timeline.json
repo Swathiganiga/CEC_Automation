@@ -1,0 +1,41 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "GISI-0NVH5P",
+    "children" : [ {
+      "name" : "9228@GISI-0NVH5P.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "d0e6be957685e23c",
+        "parentUid" : "0f698f1fe73725129672671c9eafb254",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572411617820,
+          "stop" : 1572413716847,
+          "duration" : 2099027
+        },
+        "flaky" : false,
+        "parameters" : [ "KidsBirthdayParties" ]
+      } ],
+      "uid" : "0f698f1fe73725129672671c9eafb254"
+    }, {
+      "name" : "30976@GISI-0NVH5P.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "ce34242a564c1d60",
+        "parentUid" : "d843683ef19ba1d6ef585dd954602665",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1572411565243,
+          "stop" : 1572411565250,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d843683ef19ba1d6ef585dd954602665"
+    } ],
+    "uid" : "f985a25c84a6e7e3e3dcdf912bb9d318"
+  } ]
+}

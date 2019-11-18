@@ -1,0 +1,41 @@
+{
+  "28e356aabbc477e5483df86db8880224" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0e6be957685e23c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572411617820,
+        "stop" : 1572413716847,
+        "duration" : 2099027
+      }
+    } ]
+  },
+  "99caaaa12256d291d9be0a28f92f3b7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ce34242a564c1d60",
+      "status" : "skipped",
+      "statusDetails" : "gherkin.TagExpression$BadTagException: Bad tag: \"\"",
+      "time" : {
+        "start" : 1572411565243,
+        "stop" : 1572411565250,
+        "duration" : 7
+      }
+    } ]
+  }
+}

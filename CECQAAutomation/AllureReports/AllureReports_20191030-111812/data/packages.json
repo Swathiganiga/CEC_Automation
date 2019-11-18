@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.cec.qa.runner.MainRunner",
+    "children" : [ {
+      "name" : "feature",
+      "uid" : "ce34242a564c1d60",
+      "parentUid" : "2e1acdcd8385e02bcaa73adf19d5f1b5",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1572411565243,
+        "stop" : 1572411565250,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "feature",
+      "uid" : "d0e6be957685e23c",
+      "parentUid" : "2e1acdcd8385e02bcaa73adf19d5f1b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572411617820,
+        "stop" : 1572413716847,
+        "duration" : 2099027
+      },
+      "flaky" : false,
+      "parameters" : [ "KidsBirthdayParties" ]
+    } ],
+    "uid" : "com.cec.qa.runner.MainRunner"
+  } ]
+}

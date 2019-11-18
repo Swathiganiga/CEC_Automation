@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Runs Cucumber Feature",
+    "uid" : "ce34242a564c1d60",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1572411565243,
+      "stop" : 1572411565250,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Runs Cucumber Feature",
+    "uid" : "d0e6be957685e23c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1572411617820,
+      "stop" : 1572413716847,
+      "duration" : 2099027
+    },
+    "flaky" : false,
+    "parameters" : [ "KidsBirthdayParties" ]
+  } ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="CEC Automation: 2.0[From Resource]">
+
+<test name = "CEC Automation API[From Resource]">
+	<classes>
+		<class name = "com.cec.qa.tests.APINewBookingFunnelTest"> </class>
+		<class name = "com.cec.qa.tests.APINewBranndSiteTest"> </class>
+ 	</classes>
+</test>
+</suite>

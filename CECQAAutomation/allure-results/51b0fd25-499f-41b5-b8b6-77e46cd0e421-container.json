@@ -1,0 +1,1 @@
+{"uuid":"51b0fd25-499f-41b5-b8b6-77e46cd0e421","name":"com.cec.qa.tests.KidsBirthdayPartyTest.setUp","description":"","start":1573820353748,"stop":1573820422415,"children":["66d2426f-10d4-423e-a22c-1da324c7f3b0"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1573820353749,"stop":1573820422414}]}
